@@ -1,8 +1,7 @@
 # Spring Boot Dubbo/Zookeeper
 ### Spring Boot 结合Zookeeper、Dubbo 实现 SOA 简单案例
 
-## Spring Boot前搭建过Spring MVC SOA案例，相比之前的方式，Spring Boot 确实是比较简洁，没有繁琐的配置文件，全部用注解来实现，
-虽然Spring Cloud 微服务现在已经很火了，但是了解一下Spring Boot中使用 Dubbo+Zookeeper来实现SOA也是向微服务架构过渡的一个尝试吧！
+### Spring Boot前搭建过Spring MVC SOA案例，相比之前的方式，Spring Boot 确实是比较简洁，没有繁琐的配置文件，全部用注解来实现，虽然Spring Cloud 微服务现在已经很火了，但是了解一下Spring Boot中使用 Dubbo+Zookeeper来实现SOA也是向微服务架构过渡的一个尝试吧！
 
 ## 下面是该项目的一些截图，方便更好的理解
 
